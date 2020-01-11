@@ -1,1 +1,0 @@
-This project deals with automatic detection of vehicles by using RF RC522 module and GSM SIM 800L module, which are controlled by using a microcontroller. A buzzer has been provided in the circuit to warn and notify the driver.
