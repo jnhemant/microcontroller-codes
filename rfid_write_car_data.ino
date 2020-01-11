@@ -14,7 +14,7 @@
  *
  * Hardware required:
  * Arduino
- * PCD (Proximity Coupling Device): NXP MFRC522 Contactless Reader IC
+ * PCD (Proximity Coupling Device): NXP MFRC522 Contactless Reader IC 
  * PICC (Proximity Integrated Circuit Card): A card or tag using the ISO 14443A interface, eg Mifare or NTAG203.
  * The reader can be found on eBay for around 5 dollars. Search for "mf-rc522" on ebay.com. 
  */
